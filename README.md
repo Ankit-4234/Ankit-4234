@@ -29,6 +29,3 @@
 - 🌤️ **Weather App** — Fetches live weather using an external API · JavaScript
 - 🔐 **Auth System** — Full registration, login, session, password reset · PHP
 
----
-
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankit-4234&show_icons=true&theme=tokyonight&hide_border=true)
