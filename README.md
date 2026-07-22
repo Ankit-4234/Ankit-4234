@@ -10,7 +10,7 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-4234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ankit's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-4234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Ankit's GitHub stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-4234&theme=tokyonight&hide_border=true" alt="Ankit's streak stats" height="165"/>
 </p>
 
@@ -19,10 +19,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-4234&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-4234&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages"/>
 </p>
 
-> 💡 **Note:** these cards are auto-generated and update themselves as you push code — no editing needed. If any card doesn't render, GitHub just means the stats API is warming up; refresh the page.
+> 💡 **Note:** these cards are auto-generated and update themselves as you push code — no editing needed. The stats/top-langs cards run on a single free shared instance (`github-readme-stats.vercel.app`) that many thousands of GitHub profiles hit, so it occasionally rate-limits and shows a broken image. If that happens: do a hard refresh (`Ctrl+Shift+R`), or wait a few minutes for the limit to reset. If it keeps happening, the permanent fix is to fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and deploy your own free instance on Vercel (~5 min, one click), then swap the domain in the two image URLs above for your own.
 
 ---
 
@@ -126,4 +126,3 @@ Fetches and displays live weather data from an external API.
 ---
 
 <p align="center"><i>Currently open to internships and freelance work in Nepal 🇳🇵 — let's build something together.</i></p>
-
