@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">CSIT Undergrad from Nepal · Full-Stack Learner · Building in Public</h3>
+<h1 align="center">Hi, I'm Ankit</h1>
+<h3 align="center">CSIT Undergraduate from Nepal · Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+real+projects,+one+bug+at+a+time;Learning+MERN+stack+%F0%9F%9A%80;Open+to+internships+in+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Fiverr+freelancer+in+progress...&font=Fira%20Code&center=true&width=500&height=40&duration=3000&pause=1000&color=58A6FF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+real+projects,+one+bug+at+a+time;Learning+the+MERN+stack;Open+to+internships+in+Nepal;Available+for+freelance+work&font=Fira%20Code&center=true&width=500&height=40&duration=3000&pause=1000&color=58A6FF" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ankit-4234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Ankit's GitHub stats" height="165"/>
@@ -22,19 +22,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-4234&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages"/>
 </p>
 
-### 🙋 About Me
+### About Me
 
-- 🎓 CSIT undergraduate student in Nepal
-- 🔭 Just shipped a **full MERN stack Notes App** — MongoDB Atlas, Express, React, Node.js, JWT auth, deployed live
-- 🌱 Deepening my **React** and **Node.js** skills, moving from PHP/MySQL projects into the JS ecosystem
-- 💬 Ask me about **JavaScript · React · Node.js · PHP · MySQL · MongoDB**
-- 🎯 Looking to land my **first internship in Nepal** and grow as a **Fiverr freelancer**
-- 📫 Reach me through GitHub or by opening an issue on any of my repos
-- ⚡ Fun fact: I debug by reading error messages carefully — most bugs are just typos
+- CSIT undergraduate student based in Nepal
+- Built a full-stack Notes App using MongoDB Atlas, Express, React, Node.js, and JWT authentication
+- Currently improving my React and Node.js skills while moving from PHP/MySQL projects to the JavaScript ecosystem
+- Interested in JavaScript, React, Node.js, PHP, MySQL, and MongoDB
+- Looking for my first internship opportunity in Nepal
+- Also available for freelance work
+- I like building practical projects and learning by fixing real problems
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -53,72 +53,70 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 <details open>
-<summary><b>🗒️ MERN Notes App</b> — <i>click to collapse</i></summary>
+<summary><b>MERN Notes App</b></summary>
 <br>
 
-Full-stack notes application with per-user authentication and isolation.
+A full-stack notes application with secure user authentication and separate notes for each user.
 
-- **Stack:** MongoDB Atlas · Express · React (Vite) · Node.js · JWT
-- **Features:** secure per-user note isolation, loading/empty states, newest-first sorting
-- **Deployed:** backend on Render, frontend on Vercel
-- 🔗 Live on my [portfolio](https://myportfolio4234.vercel.app)
+- **Stack:** MongoDB Atlas, Express, React, Node.js, JWT
+- **Features:** User authentication, protected notes, loading and empty states, newest-first sorting
+- **Deployment:** Frontend on Vercel and backend on Render
+- **Live:** [View on portfolio](https://myportfolio-4234.vercel.app)
 
 </details>
 
 <details>
-<summary><b>🧾 Expense Tracker</b> — <i>click to expand</i></summary>
+<summary><b>Expense Tracker</b></summary>
 <br>
 
-Login-protected expense manager with CRUD operations and monthly stats.
+A login-protected expense manager where users can add, edit, and remove expenses.
 
-- **Stack:** PHP · MySQL
-- 🔗 Live: [expensetracker.is-great.org](https://expensetracker.is-great.org)
+- **Stack:** PHP, MySQL
+- **Live:** [expensetracker.is-great.org](https://expensetracker.is-great.org)
 
 </details>
 
 <details>
-<summary><b>📊 Student Grade Tracker</b> — <i>click to expand</i></summary>
+<summary><b>Student Grade Tracker</b></summary>
 <br>
 
-Grade tracking tool with average calculation and session-based per-device data isolation.
+A grade tracking tool with CRUD operations, average calculation, and separate data for each device.
 
-- **Stack:** PHP · MySQL
+- **Stack:** PHP, MySQL
 
 </details>
 
 <details>
-<summary><b>🔐 Full Authentication System</b> — <i>click to expand</i></summary>
+<summary><b>Authentication System</b></summary>
 <br>
 
-Complete registration, login, session handling, and password reset flow.
+A registration and login system with sessions and password reset functionality.
 
-- **Stack:** PHP · MySQL
+- **Stack:** PHP, MySQL
 
 </details>
 
 <details>
-<summary><b>🌤️ Weather App</b> — <i>click to expand</i></summary>
+<summary><b>Weather App</b></summary>
 <br>
 
-Fetches and displays live weather data from an external API.
+A weather app that fetches and displays live weather data from an external API.
 
-- **Stack:** JavaScript · Fetch API
+- **Stack:** JavaScript, Fetch API
 
 </details>
 
 ---
 
-### 🌐 Portfolio
+### Portfolio
 
 <p align="center">
-  <a href="https://myportfolio4234.vercel.app">
+  <a href="https://myportfolio-4234.vercel.app">
     <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
----
-
-<p align="center"><i>Currently open to internships and freelance work in Nepal 🇳🇵 — let's build something together.</i></p>
+<p align="center"><i>Open to internships in Nepal and freelance opportunities.</i></p>
